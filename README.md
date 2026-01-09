@@ -3,9 +3,13 @@
 A modern, intuitive project and task management application built with React and Appwrite.
 
 ---
+## Screenshots
 
-## 🚀 Demo
-Available Soon!
+### Dashboard
+![Dashboard](public/Screenshot%202026-01-09%20212324.png)
+
+### Task Creation
+![Task creation](public/Screenshot%202026-01-09%20212345.png)
 
 ---
 
@@ -154,11 +158,6 @@ Set appropriate read/write permissions for both collections:
 - Enable Email/Password authentication
 - Configure session limits and security settings as needed
 
----
-
-## 📸 Screenshots
-
---> Available soon!
 ---
 
 ## 🤝 Contributing
